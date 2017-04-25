@@ -6,3 +6,20 @@ Anonymous
 + Tor Browser 
 + Proxychains-ng 
 
+Recon Tools 
++ Theharvester 
++ Dig
++ Host
++ Whois 
++ Shodan 
++ Reverse IP 
++ WhatWeb 
+
+Mapping 
++ IPscan (Port Scaning)
++ Nmap   (Port Scaning)
++ Zmap   (Port Scaning)
++ Zenmap (Port Scaning)
++ Nikto  (Finger)
++ Burpsuite (Proxier)
+
